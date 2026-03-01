@@ -1,0 +1,12 @@
+{
+  "name": "daily-dev",
+  "version": "1.0.0",
+  "description": "The Daily Dev - A beautiful developer newspaper",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
